@@ -1,12 +1,6 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - katatech
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - rice-apps/Carpool-V3
+  - KataTech/explore-vs-exploit-gopniklab
