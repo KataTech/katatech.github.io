@@ -11,7 +11,7 @@ category: work
 
 I know I certainly have. And so has most Rice students. 
 
-[Rice Carpool](https://carpool.riceapps.org) is a mobile website for Rice students to schedule Uber Rides with one another. It is a long-standing project of [Rice Apps](https://riceapps.org), our student software development club that is focused on software solutions for the good of Rice and the Greater Houston community.
+[Rice Carpool](https://carpool.riceapps.org) is a mobile website for Rice students to schedule Uber Rides with one another. It is a long-standing project of [Rice Apps](https://riceapps.org), which is our student software development club that is focused on software solutions for the good of Rice and the Greater Houston community.
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-6 mt-3 mt-md-0">
