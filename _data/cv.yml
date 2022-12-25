@@ -31,12 +31,3 @@
     - title: Research Intern
       institution: MD Anderson Cancer Center, Houston, TX, USA
       year: 06/2021 - 08/2021
-
-- title: Skills
-  type: map
-  content: 
-    - name: Programming Languages
-      value: Python, R, JavaScript, Java, C, SQL
-    - name: Tools & Frameworks
-      value: React, Scikit-Learn, PyTorch, Tensorflow, Pandas, Spark, AWS, MongoDB, Git
-
