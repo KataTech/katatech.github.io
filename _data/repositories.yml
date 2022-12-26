@@ -3,4 +3,7 @@ github_users:
 
 github_repos:
   - rice-apps/Carpool-V3
-  - KataTech/explore-vs-exploit-gopniklab
+  - katatech/explore-vs-exploit
+
+carpool_repo:
+  - rice-apps/Carpool-V3
