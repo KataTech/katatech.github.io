@@ -15,10 +15,10 @@ I know I certainly have. And so has most Rice students.
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/carpool/carpool-V2.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/carpool/carpool-V2.png" title="Carpool V2" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-5 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/carpool/carpool-flyer.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/carpool/carpool-flyer.png" title="Carpool V3" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -35,13 +35,13 @@ The first feature I worked on was **Ride Creation**, as part of Rice App's [Open
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/carpool/landing2.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/carpool/landing.png" title="Landing Page" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/carpool/ride-search.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/carpool/ride-search.png" title="Ride Search" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/carpool/ride-creation.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/carpool/ride-creation.png" title="Ride Create" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -80,13 +80,13 @@ Verifying user as Rice student via Rice SSO Authentification. If the user is reg
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/carpool/sso-pop-up.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/carpool/sso-pop-up.png" title="SSO Pop-Up" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/carpool/authentication.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/carpool/authentication.png" title="Authentication" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/carpool/onboarding.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/carpool/onboarding.png" title="Onboarding" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -123,7 +123,7 @@ A big challenge with implementing this feature was determining the flow of the v
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/carpool/snapshot.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/carpool/snapshot.png" title="Carpool Final" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -131,7 +131,7 @@ Our product launched on March 1st, 2022 to the Rice University student body. We 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/carpool/stats.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/carpool/stats.png" title="Statistics" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
