@@ -10,7 +10,7 @@ horizontal: false
 
 #### **Berkeley AI Research**
 
-Advised by [Dr. Alison Gopnik](http://www.gopniklab.berkeley.edu/alison) and [Eunice Yiu](https://www.linkedin.com/in/euniceyiu)
+Advised by [Dr. Alison Gopnik](http://www.gopniklab.berkeley.edu/alison) and [Eunice Yiu](https://www.linkedin.com/in/euniceyiu). Click [here](/research/bair/) to learn more!
 
 <div class="row">
     <a href="/assets/pdf/berkeley.pdf">
