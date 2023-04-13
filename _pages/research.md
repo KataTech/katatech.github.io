@@ -12,7 +12,7 @@ horizontal: false
 
 Advised by [Dr. C&eacute;sar A. Uribe](https://cauribe.rice.edu/) and [Dr. Lydia Beaudrot](https://lydiabeaudrot.weebly.com/).
 
-> **TLDR:** A systemic understanding of predator-prey relationships is central to maintaining biodiversity and the well-being of an ecosystem. As anthropogenic disturbance continues to rise in Sub-Saharan Africa, we are in need of a principled apporach to study and anticipate changes among its food web networks as a result of human interference. We leverage optimal transport as the backbone of our newly proposed topological data analysis toolkit over food web networks. Check out our preliminary results below!
+> **TLDR:** A systemic understanding of predator-prey relationships is central to maintaining biodiversity and the well-being of an ecosystem. As anthropogenic disturbance continues to rise in Sub-Saharan Africa, we are in need of a principled approach to study and anticipate changes among its food web networks as a result of human interference. We leverage optimal transport as the backbone of our newly proposed topological data analysis toolkit over food web networks. Check out our preliminary results below!
 <div class="row">
     <a href="/assets/pdf/food-web-ot.pdf">
         <div class="col-sm mt-3 mt-md-0">
