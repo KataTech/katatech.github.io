@@ -37,7 +37,7 @@ Advised by [Dr. Alison Gopnik](http://www.gopniklab.berkeley.edu/alison) and [Eu
 
 #### **MD Anderson Cancer Center**
 
-Advised by [Dr. Jagan Sastry](https://faculty.mdanderson.org/profiles/jagannadha_sastry.html) and [Dr. Venkatesh Hegde](https://www.researchgate.net/profile/Venkatesh-Hegde). Supported by the [CPRIT CURE](https://www.mdanderson.org/education-training/degrees-programs/summer-research-programs/cprit-cure.html) summer research program. 
+Advised by [Dr. Jagan Sastry](https://faculty.mdanderson.org/profiles/jagannadha_sastry.html) and [Dr. Venkatesh Hegde](https://www.researchgate.net/profile/Venkatesh-Hegde). Supported by the [CPRIT CURE](https://www.mdanderson.org/education-training/degrees-programs/summer-research-programs/cprit-cure.html) program. 
 
 > **TLDR:** HPV+ oropharyngeal cancer is rising in prevalence within the U.S. accounting for over 70% of all oropharyngeal cancers. Our group developed an anti-PD1 immunotherapy therapeudic procedure, but we observed that the treatment efficacy differed wildly between tumor implants in the neck v.s. the tongue. My work centered around identifying the differentially expressed genes across these two experiments using RNA-Sequencing Analysis, and eventually constructing a set of hypothesis on the activation/deactivation of biological pathways based on the set of differentially expressed genes. 
 <div class="row">
