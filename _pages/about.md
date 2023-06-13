@@ -15,14 +15,12 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Welcome! I am a undergrad senior studying Math & CS at Rice University. 
+Welcome! I am a senior studying Math & CS at Rice University. 
 
 Broadly speaking, my research interests are in AI/ML, optimal transport, and networks. I am especially drawn to mathematically-driven criterions to address pressing challenges in the application of distributed and network machine learning systems to healthcare, medicine, and society.
 
-Currently, I am working with [Dr. Esteban G. Tabak](https://cims.nyu.edu/~tabak/) and his group to develop novel theories of optimal transport for factor discovery at New York University.
+Currently, I am working with [Dr. Esteban G. Tabak](https://cims.nyu.edu/~tabak/) to develop novel theories of optimal transport for factor discovery at New York University.
 
-At Rice, I am fortunate to be advised by [Dr. C&eacute;sar A. Uribe](https://cauribe.rice.edu/) and [Dr. Lydia Beaudrot](https://lydiabeaudrot.weebly.com/) to work on exciting applications of optimal transport to food web network data analysis. Previously, I interned at Berkeley AI Research under [Dr. Alison Gopnik](http://www.gopniklab.berkeley.edu/alison), the Rice [Computational and Wellbeing Group](https://compwell.rice.edu/) under [Dr. Akane Sano](http://akanesano.rice.edu/), and MD Anderson Cancer Center under [Dr. Jagan Sastry](https://faculty.mdanderson.org/profiles/jagannadha_sastry.html).
-
-In my free time, I mostly watch movies and TV shows with my little sister. I also try to sprinkle my days with light math reading, a moderate amount of coding, and the occasional basketball games with my friends. 
+At Rice, I am fortunate to be advised by [Dr. C&eacute;sar A. Uribe](https://cauribe.rice.edu/) and [Dr. Lydia Beaudrot](https://lydiabeaudrot.weebly.com/) to work on exciting applications of optimal transport to food web network data analysis. Previously, I interned at Berkeley AI Research under [Dr. Alison Gopnik](http://www.gopniklab.berkeley.edu/alison) and MD Anderson Cancer Center under [Dr. Jagan Sastry](https://faculty.mdanderson.org/profiles/jagannadha_sastry.html).
 
 ---
