@@ -22,7 +22,7 @@ Advised by [Dr. C&eacute;sar A. Uribe](https://cauribe.rice.edu/) and [Dr. Lydia
 </div>
 
 #### **New York University**
-Advised by [Dr. Esteban G. Tabak](https://cims.nyu.edu/~tabak/). 
+Advised by [Dr. Esteban G. Tabak](https://cims.nyu.edu/~tabak/). Supported by the [AM-SURE](https://math.nyu.edu/dynamic/research/pages/research-and-training-group-mathematical-modeling-and-simulation/activities/amsure/) program, funded by NSF.
 
 > **TLDR:** Often times, your data is affected by variables that should be excluded from your analysis (for ex. batch effect and protected attributes such as race, gender, socioeconomic class). We developed a theoretical framework for reducing the unwanted variability in our data distribution via optimal transport. Look out for our future works to extend this method for personalization, latent factor discovery, and semi-supervised variability reduction! 
 
