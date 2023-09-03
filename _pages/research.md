@@ -21,6 +21,13 @@ Advised by [Dr. C&eacute;sar A. Uribe](https://cauribe.rice.edu/) and [Dr. Lydia
     </a>
 </div>
 
+#### **New York University**
+Advised by [Dr. Esteban G. Tabak](https://cims.nyu.edu/~tabak/). 
+
+> **TLDR:** Often times, your data is affected by variables that should be excluded from your analysis (for ex. batch effect and protected attributes such as race, gender, socioeconomic class). We developed a theoretical framework for reducing the unwanted variability in our data distribution via optimal transport. Look out for our future works to extend this method for personalization, latent factor discovery, and semi-supervised variability reduction! 
+
+Checkout the [report](https://math.nyu.edu/media/math/filer_public/51/b1/51b198de-3072-4c10-b729-96111bbc661c/varreduceot.pdf) and my [presentation](https://math.nyu.edu/media/math/filer_public/07/0c/070c1104-9061-4b11-bd0a-ae7ebc50d48d/variability_reduction_with_optimal_transport.pdf)! 
+
 #### **Berkeley AI Research**
 
 Advised by [Dr. Alison Gopnik](http://www.gopniklab.berkeley.edu/alison) and [Eunice Yiu](https://www.linkedin.com/in/euniceyiu). Supported by the [SUPERB](https://eecs.berkeley.edu/resources/undergrads/research/superb) and [BAIR](https://bair.berkeley.edu/reu.html) NSF REU programs. 
