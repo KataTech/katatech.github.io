@@ -21,7 +21,7 @@ Currently, I am fortunate to be advised by [Dr. C&eacute;sar A. Uribe](https://c
 
 Previously, I worked on [optimal transport for variability reduction](https://math.nyu.edu/media/math/filer_public/51/b1/51b198de-3072-4c10-b729-96111bbc661c/varreduceot.pdf) under [Dr. Esteban G. Tabak](https://cims.nyu.edu/~tabak/) at NYU Courant. At Berkeley AI Research, I worked on contrasting RL agents and children's learning behavior under [Dr. Alison Gopnik](http://www.gopniklab.berkeley.edu/alison). Even earlier at MD Anderson Cancer Center, I worked with [Dr. Jagan Sastry](https://faculty.mdanderson.org/profiles/jagannadha_sastry.html) to conduct RNA-sequencing analysis in service of advancing a novel cancer immunotherapy treatment.
 
-<div class="warning" style='padding:0.1em; background-color:#E9D8FD; color:#69337A'>
+<div class="warning" style='padding:0.1em'>
 <span>
 <p style='margin-top:1em; text-align:center'>
 <b>For underclassmen, early researchers, FGLI, or URM students at Rice</b></p>
@@ -33,3 +33,15 @@ Please do not hesitate to reach out if you want to talk about getting involved i
 </div>
 
 ---
+
+<style>
+  .warning {
+    background-color: #E9D8FD;
+    color: #69337A;
+  }
+
+  [data-theme="dark"] .warning {
+    background-color: #69337A;
+    color: #E9D8FD;
+  }
+</style>
