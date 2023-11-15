@@ -15,7 +15,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Welcome! I am a senior studying Math & CS at Rice University. My research interests sit broadly in machine learning. More specifically, I am a big fan of statistical ML, interpretability, optimal transport, graphs, and applied ML to healthcare, science, and social good. 
+Welcome! I am a senior studying CS at Rice University. My research interests sit broadly in machine learning. More specifically, I am a big fan of statistical ML, interpretability, optimal transport, graphs, and applied ML to healthcare, science, and social good. 
 
 Currently, I am fortunate to be advised by [Dr. C&eacute;sar A. Uribe](https://cauribe.rice.edu/) and [Dr. Lydia Beaudrot](https://lydiabeaudrot.weebly.com/) to work on exciting applications of optimal transport to food web network data analysis. In particular, we are exploring graph comparison using the Gromov-Wasserstein distance. Checkout our preliminary results [here](https://katatech.github.io/assets/pdf/food-web-ot.pdf)! 
 
