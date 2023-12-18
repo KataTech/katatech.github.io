@@ -39,9 +39,9 @@ Check out some of my recent results!
 <div class="warning" style='padding:0.1em'>
 <span>
 <p style='margin-top:1em; text-align:center'>
-<b>For underclassmen, early researchers, FGLI, or URM students at Rice</b></p>
+<b>For underclassmen, early researchers, FGLI, or URM students</b></p>
 <p style='margin-left:1em;'>
-Please do not hesitate to reach out if you want to talk about getting involved in research (esp. ML). I am very happy to sit down at Chaus and scope out a plan for finding a research group to join with you! 
+Please do not hesitate to reach out if you want to talk about getting involved in research (esp. ML). I am very happy to sit down at Chaus and scope out a plan for finding a research group to join with you!
 </p>
 <p style='margin-bottom:1em; margin-right:1em; text-align:right; font-family:Georgia'>
 </p></span>
