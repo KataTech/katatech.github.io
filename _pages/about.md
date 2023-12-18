@@ -49,7 +49,7 @@ Please do not hesitate to reach out if you want to talk about getting involved i
 <br />
 
 
-**Acknowledgments:** I am a lousy web developer and an even worse photographer. I owe much gratitude to [Shreyas](https://shreyasminocha.me/) for always helping me out with random kinks on this website. And a big shoutout to my future comedy partner [Siba](https://sibasmarak.github.io/) for this profile picture that makes me look 10x better than I do in-person! Lastly, check out [al-folio](https://github.com/alshedivat/al-folio) for the amazing website template. 
+**Acknowledgments:** I am a lousy web developer and an even worse photographer. I owe much gratitude to [Shreyas](https://shreyasminocha.me/) for always helping me out with random kinks on this website. I also owe a big shoutout to my future comedy partner [Siba](https://sibasmarak.github.io/) for this profile picture that makes me look 10x better than in-person! Lastly, you should check out [al-folio](https://github.com/alshedivat/al-folio) for the amazing website template. 
 
 
 ---
