@@ -17,9 +17,9 @@ social: true  # includes social icons at the bottom of the page
 
 Welcome! I am a senior studying CS at Rice University. I am a big fan of statistical ML, optimal transport, graphs, and applied ML to healthcare. Recently, I am most excited about producing geometric understanding for how our ML works (and fails) through the lens of OT.
 
-Currently, I am fortunate to be advised by [Dr. C&eacute;sar A. Uribe](https://cauribe.rice.edu/) and [Dr. Lydia Beaudrot](https://lydiabeaudrot.weebly.com/) to work on exciting applications of optimal transport to food web network data analysis. 
+Currently, I am fortunate to be advised by [Dr. C&eacute;sar A. Uribe](https://cauribe.rice.edu/) and [Dr. Lydia Beaudrot](https://lydiabeaudrot.weebly.com/) to work on graph optimal transport towards food web analysis. 
 
-Previously, I worked on [optimal transport for variability reduction](https://math.nyu.edu/media/math/filer_public/51/b1/51b198de-3072-4c10-b729-96111bbc661c/varreduceot.pdf) under [Dr. Esteban G. Tabak](https://cims.nyu.edu/~tabak/) at NYU Courant. At Berkeley AI Research, I worked on contrasting RL agents and children's learning behavior under [Dr. Alison Gopnik](http://www.gopniklab.berkeley.edu/alison). Even earlier at MD Anderson Cancer Center, I worked with [Dr. Jagan Sastry](https://faculty.mdanderson.org/profiles/jagannadha_sastry.html) to conduct RNA-sequencing analysis in service of advancing a novel cancer immunotherapy treatment.
+Previously, I worked on [optimal transport for variability reduction](https://math.nyu.edu/media/math/filer_public/51/b1/51b198de-3072-4c10-b729-96111bbc661c/varreduceot.pdf) under [Dr. Esteban G. Tabak](https://cims.nyu.edu/~tabak/) at NYU Courant. At Berkeley AI Research, I worked on contrasting RL and human goal-seeking under [Dr. Alison Gopnik](http://www.gopniklab.berkeley.edu/alison). Even earlier at MD Anderson Cancer Center, I worked with [Dr. Jagan Sastry](https://faculty.mdanderson.org/profiles/jagannadha_sastry.html) on statistical modeling in service of immunotherapy treatments.
 
 
 Check out some of my recent results!
@@ -47,9 +47,7 @@ Please do not hesitate to reach out if you want to talk about getting involved i
 </p></span>
 </div>
 <br />
-
-
-**Acknowledgments:** I am a lousy web developer and an even worse photographer. I owe much gratitude to [Shreyas](https://shreyasminocha.me/) for always helping me out with random kinks on this website. I also owe a big shoutout to my future comedy partner [Siba](https://sibasmarak.github.io/) for this profile picture that makes me look 10x better than in-person! Lastly, you should check out [al-folio](https://github.com/alshedivat/al-folio) for the amazing website template. 
+**Acknowledgments:** I am a lousy web developer and an even worse photographer. I owe much gratitude to [Shreyas](https://shreyasminocha.me/) for helping me out with random kinks on this website. A big shoutout to my future comedy partner, [Siba](https://sibasmarak.github.io/), for this sharp photo from the Eiffel tower! Lastly, check out [al-folio](https://github.com/alshedivat/al-folio) for the stylish website template. 
 
 
 ---
