@@ -144,18 +144,18 @@ Today, Rice Carpool is still in use by various venue and has been expanded to in
 The success of this project would not have been possible without: 
 
 * the mentorship of our product manager and tech leads 
-    * Shreya Nidadavolu
-    * William Yao
-    * Henry Qin
+    * [Shreya Nidadavolu](https://www.linkedin.com/in/shreya-nidadavolu/)
+    * [William Yao](https://www.linkedin.com/in/william-yao-0a80b6153/)
+    * [Henry Qin](https://www.linkedin.com/in/henryqin5/)
 * my fellow developers 
-    * AJ Kim
-    * Alexis Nicolas
-    * Anya Gu
-    * Mitchell Osborn
-    * Shreyas Minocha
+    * [AJ Kim](https://www.linkedin.com/in/audrey-aj-kim/)
+    * [Alexis Nicolas](https://www.linkedin.com/in/alexis-nic01as/)
+    * [Anya Gu](https://anyagu.com/)
+    * [Mitchell Osborn](https://www.linkedin.com/in/mitchell-osborn/)
+    * [Shreyas Minocha](https://shreyasminocha.me/)
 * our awesome designers 
-    * Katherine Chui
-    * Jessica Huang
+    * [Katherine Chui](https://www.kchuiart.com/)
+    * [Jessica Huang](https://read.cv/jshuang)
 * previous Carpool teams and the Rice Apps community!
 
 For more on the codebase, feel free to checkout our repo. 
