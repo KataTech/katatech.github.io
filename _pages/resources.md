@@ -30,6 +30,7 @@ Check out my blog post for [getting involved with ML at Rice](../blog/2023/ml-at
 **More related to my focus...** 
 * A [primer on optimal transport](https://vimeo.com/248504509) by Marco Cuturi and Justin Solomon. 
 * R&eacute;mi Flamary's wonderful lightning view of [Gromov-Wasserstein for graph learning](https://remi.flamary.com/pres/GW_OTML_2023.pdf). 
+* A [goldmine](https://people.ece.cornell.edu/zivg/talks.html) of talks on theoretical properties of Gromov-Wasserstein and Entropic Gromov-Wasserstein space proven by [Ziv](https://people.ece.cornell.edu/zivg/index.html) and his group. Follow him! 
 * [Been Kim](https://beenkim.github.io/) has many insightful [talks](https://docs.google.com/presentation/d/e/2PACX-1vT9niyHbIv29umb-p3jNHNvs0wpXwwnXvUdubiunV3J0N8O2E7cTrax4giBfPs-xDVnEdaHdN2Ui9Bd/embed?start=false&loop=false&delayms=60000&slide=id.p) about interpretability, including dangers of misusing this terminology. 
 
 **Misc.**
