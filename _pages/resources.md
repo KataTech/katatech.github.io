@@ -25,6 +25,7 @@ Check out my blog post for [getting involved with ML at Rice](../blog/2023/ml-at
 * [Lessons learned from 1K rejected research papers](https://www.cs.cmu.edu/~christos/MetaPaper/faloutsos_MetaPaper_1KR.pdf) by Christos Faloutsos. 
 * On writing good research code: [Harvard](https://docs.google.com/document/d/1uvAbEhbgS_M-uDMTzmOWRlYxqCkogKRXdbKYYT98ooc/edit#heading=h.fmfv56no579j), [reddit](https://www.reddit.com/r/MachineLearning/comments/g133a3/r_what_is_your_ml_research_workflow/), and [industry research](https://www.moderndescartes.com/essays/research_code/) perspectives. 
 * Use [screens](https://linuxize.com/post/how-to-use-linux-screen/) to detach from your lab's cloud computing cluster overnight. Oh, and use [Termius](https://termius.com/) to make remote development and data sharing smoothly. Free with [Github Student Developer Pack](https://education.github.com/pack)! 
+* A nice [guide](https://www.alexpghayes.com/post/2023-12-20_getting-statistics-help/) by Alex Hayes on important questions to address *prior to data-driven collaborations*, both for the statistician and domain expert seeking assistance. 
 
 **More related to my focus...** 
 * A [primer on optimal transport](https://vimeo.com/248504509) by Marco Cuturi and Justin Solomon. 
