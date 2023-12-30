@@ -12,7 +12,7 @@ My joint work with Alex Zalles will appear at the NeurIPS 2023 Workshop in Optim
         {% include figure.html path="assets/img/research/network-reg-ot.png" class="img-fluid rounded z-depth-1" zoomable=true %}
 </div>
 
-In particular, the first paper introduces a generalized Frechet Mean regression over networks using the Frobenius Norm of the difference in graph Laplacians as an inner metric. Our work substitutes this with the Wasserstein distance between multivariate Gaussian representations of graphs as proposed in [1]. We show that our method perform superior for synthetic and real-world networks. The full paper can be found on the official NeurIPS website [here](https://nips.cc/virtual/2023/workshop/66521#:~:text=The%20OTML%20workshop%20will%20provide,community%20towards%20future%20groundbreaking%20discoveries). 
+In particular, the first paper introduces a generalized Frechet Mean regression over networks using the Frobenius Norm of the difference in graph Laplacians as an inner metric. Our work substitutes this with the Wasserstein distance between multivariate Gaussian representations of graphs as proposed in [1]. We show that our method perform superior for synthetic and real-world networks. The full paper can be found on the official NeurIPS website [here](https://nips.cc/virtual/2023/workshop/66521#:~:text=The%20OTML%20workshop%20will%20provide,community%20towards%20future%20groundbreaking%20discoveries). It's also freely available [here](assets/papers/zalles2023_network_regression.pdf). 
 
 If you're at NeurIPS this year, please do not hesitate to stop by or shoot me a text to meet up! 
 
