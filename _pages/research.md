@@ -13,6 +13,9 @@ horizontal: false
 Advised by [Dr. C&eacute;sar A. Uribe](https://cauribe.rice.edu/) and [Dr. Lydia Beaudrot](https://lydiabeaudrot.weebly.com/).
 
 **TL;DR:** A systemic understanding of predator-prey relationships is central to maintaining biodiversity and the well-being of an ecosystem. As anthropogenic disturbance continues to rise in Sub-Saharan Africa, we are in need of a principled approach to study and anticipate changes among its food web networks as a result of human interference. We leverage optimal transport as the backbone of our newly proposed geometric data analysis toolkit over food web networks. Check out our preliminary results below!
+
+[1] Zalles, A., **Hung, K.**, et al. (2023). [Network Regression with Wasserstein Distances](assets/papers/zalles2023_network_regression.pdf). NeurIPS 2023 Workshop on Optimal Transport for Machine Learning.
+
 <div class="row mt-2">
     <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.html path="assets/img/research/food-web-ot.png" title="A Gromov-Wasserstein Approach for Food Web Network Analysis" class="img-fluid rounded z-depth-1" zoomable=true %}
