@@ -15,7 +15,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Welcome! I am a senior studying CS at Rice University. I am a big fan of statistical ML, optimal transport, graphs, and applied ML to healthcare. Recently, I am most excited about producing geometric understanding for how our ML works (and fails) through the lens of OT.
+Welcome! I am a senior studying CS at Rice University. I am a big fan of statistical machine learning (ML), optimal transport (OT), graphs, and applied ML to healthcare. Recently, I am most excited about producing geometric understanding for how our ML works (and fails) through the lens of OT.
 
 Currently, I am fortunate to be advised by [Dr. C&eacute;sar A. Uribe](https://cauribe.rice.edu/) and [Dr. Lydia Beaudrot](https://lydiabeaudrot.weebly.com/) to work on graph optimal transport towards food web analysis. 
 
