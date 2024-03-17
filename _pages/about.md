@@ -34,7 +34,9 @@ Please do not hesitate to reach out if you want to talk about getting involved i
 </div>
 <br />
 
-**Acknowledgements:** I am a lousy web developer and an even worse photographer. I owe much gratitude to [Shreyas](https://shreyasminocha.me/) for helping me out with random kinks on this website. A big shoutout to my future comedy partner, [Siba](https://sibasmarak.github.io/), for this sharp photo from the Eiffel tower! Lastly, check out [al-folio](https://github.com/alshedivat/al-folio) for the stylish website template. Last update 03/16/2024. 
+**Acknowledgements:** I am a lousy web developer and an even worse photographer. I owe much gratitude to [Shreyas](https://shreyasminocha.me/) for helping me out with random kinks on this website. A big shoutout to my future comedy partner, [Siba](https://sibasmarak.github.io/), for this sharp photo from the Eiffel tower! Lastly, check out [al-folio](https://github.com/alshedivat/al-folio) for the stylish website template. 
+
+Last updated March 16th, 2024.
 
 
 ---
