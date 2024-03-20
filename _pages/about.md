@@ -15,7 +15,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Welcome! I study CS and Stats at Rice University. Broadly, I am excited about math, data, and society. Lately, I work in responsible machine learning in network systems and computational optimal transport (OT). 
+Welcome! I study CS and Stats at Rice University. Broadly, I am interested in statistical learning, networks, computational optimal transport, and formal methods to ensure reliability of machine learning systems embedded within our society. 
 
 Currently, I am fortunate to be advised by [Dr. C&eacute;sar A. Uribe](https://cauribe.rice.edu/) and [Dr. Lydia Beaudrot](https://lydiabeaudrot.weebly.com/) to work on graph OT towards food web analysis. 
 
