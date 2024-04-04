@@ -14,7 +14,7 @@ Advised by [Dr. C&eacute;sar A. Uribe](https://cauribe.rice.edu/) and [Dr. Lydia
 
 **TL;DR:** A systemic understanding of predator-prey relationships is central to maintaining biodiversity and the well-being of an ecosystem. As anthropogenic disturbance continues to rise in Sub-Saharan Africa, we are in need of a principled approach to study and anticipate changes among its food web networks as a result of human interference. We leverage optimal transport as the backbone of our newly proposed geometric data analysis toolkit over food web networks. Check out our preliminary results below!
 
-[1] **Hung, K.**, Zalles, A., et al. (2024). Towards Ecological Network Analysis with Optimal Transport. ICLR 2024 Workshop on Tackling Climate Change with Machine Learning.
+[1] **Hung, K.**, Zalles, A., et al. (2024). Towards Ecological Network Analysis with Gromov-Wasserstein Distances. ICLR 2024 Workshop on Tackling Climate Change with Machine Learning.
 
 [2] Zalles, A., **Hung, K.**, et al. (2023). [Network Regression with Wasserstein Distances](/assets/papers/zalles2023_network_regression.pdf). NeurIPS 2023 Workshop on Optimal Transport and Machine Learning.
 
