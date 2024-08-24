@@ -6,9 +6,9 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Kai
 middle_name: M.
 last_name: Hung
-email: kai.hung@rice.edu
+email: kaimhung@mit.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  CS at Rice University
+  AI/ML PhD @ MIT
 footer_text: 
 keywords: machine-learning, rice-university # add your own keywords or leave empty
 
