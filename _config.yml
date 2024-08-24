@@ -109,9 +109,9 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: KataTech.AI # blog_name will be displayed in your blog page
+blog_name: Kai's collect of.. # blog_name will be displayed in your blog page
 blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
-blog_description: Random thoughts about life, math, and AI...
+blog_description: random thoughts about life, math, snd AI.
 permalink: /blog/:year/:title/
 
 # Pagination
