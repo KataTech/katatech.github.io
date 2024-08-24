@@ -15,11 +15,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Welcome! I study CS and Stats at Rice University. Broadly, I am interested in statistical learning, networks, computational optimal transport (OT), and formal methods to ensure reliability of machine learning systems embedded within our society. 
+Welcome! I am a first-year PhD student at MIT [IDSS](https://idss.mit.edu/), working with [Ali Jadbabaie](https://jadbabaie.mit.edu/). My research interests are in AI/ML safety and theory in the context of social systems. I am fortunate to be supported by the [NSF GRFP](https://www.nsfgrfp.org/).  
 
-Currently, I am fortunate to be advised by [Dr. C&eacute;sar A. Uribe](https://cauribe.rice.edu/) and [Dr. Lydia Beaudrot](https://lydiabeaudrot.weebly.com/) to work on graph OT towards food web analysis. 
-
-Previously, I worked on OT-driven variability reduction and ML fairness with [Dr. Esteban G. Tabak](https://cims.nyu.edu/~tabak/) at NYU Courant. At Berkeley AI Research, I worked on contrasting RL and human goal-seeking under [Dr. Alison Gopnik](http://www.gopniklab.berkeley.edu/alison). Even earlier at MD Anderson Cancer Center, I worked with [Dr. Jagan Sastry](https://faculty.mdanderson.org/profiles/jagannadha_sastry.html) on statistical modeling in service of immunotherapy treatments.
+Previously, I primary worked on computational optimal transport (OT), a mathematical discipline for aligning and metricizing probability distributions. By treating networks as probability distributions, I applied OT methods to food web analysis, advised by [Dr. C&eacute;sar A. Uribe](https://cauribe.rice.edu/) and [Dr. Lydia Beaudrot](https://lydiabeaudrot.weebly.com/) at Rice University. OT formulations for the finite sample also led to exciting applications in factor discovery and ML fairness, advised by [Dr. Esteban G. Tabak](https://cims.nyu.edu/~tabak/) and [Andrew Lipnick](https://www.linkedin.com/in/andrew-lipnick-b85393104/) at NYU Courant. Even earlier, I worked on contrasting RL and human goal-seeking with [Dr. Alison Gopnik](http://www.gopniklab.berkeley.edu/alison) and [Eunice Yiu](https://ey242.github.io/about.html) at Berkeley AI Research. 
 
 
 <div class="warning" style='padding:0.1em'>
@@ -27,7 +25,7 @@ Previously, I worked on OT-driven variability reduction and ML fairness with [Dr
 <p style='margin-top:1em; text-align:center'>
 <b>For underclassmen, early researchers, FGLI, or URM students</b></p>
 <p style='margin-left:1em;'>
-Please do not hesitate to reach out if you want to talk about getting involved in research (esp. ML). I am very happy to sit down at Chaus and scope out a plan for finding a research group to join with you!
+Please do not hesitate to reach out if you want to talk about getting involved in research (esp. ML). 
 </p>
 <p style='margin-bottom:1em; margin-right:1em; text-align:right; font-family:Georgia'>
 </p></span>
