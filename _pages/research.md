@@ -8,6 +8,10 @@ nav_order: 3
 horizontal: false
 ---
 
+#### **MIT** 
+
+*Coming soon!*
+
 #### **Rice University**
 
 Advised by [Dr. C&eacute;sar A. Uribe](https://cauribe.rice.edu/) and [Dr. Lydia Beaudrot](https://lydiabeaudrot.weebly.com/).
