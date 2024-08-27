@@ -18,6 +18,7 @@ Check out my blog post for [getting involved with ML at Rice](../blog/2023/ml-at
     * Alex Lang wrote an insightful [guide](https://www.alexhunterlang.com/nsf-fellowship) for NSF GRFP specifically. It also contains many example pieces submitted by the larger community. 
 * [Questions](https://blog.ml.cmu.edu/2020/03/02/questions-to-ask-a-prospective-ph-d-advisor-on-visit-day-with-thorough-and-forthright-explanations/) to ask prospective research advisors. 
 * The widely shared Github [repository](https://github.com/shaily99/advice#examples) for Ph.D. + grad school advice. 
+* For my fellow warriors out there: [How to Prep for Grad School if You're Poor](https://docs.google.com/document/d/1WfoMVkEbsn03Xz0Q2_YQPlWy2YrS0m4R2vK2nsekvcQ/edit). 
 
 
 **General research.** 
