@@ -17,7 +17,7 @@ social: true  # includes social icons at the bottom of the page
 
 Welcome! I am a first-year PhD student at the MIT [Institute of Data, Systems, and Society](https://idss.mit.edu/), working with [Dr. Ali Jadbabaie](https://jadbabaie.mit.edu/). My research interest lie broadly in theory of machine learning in service of promoting safe, reliant autonomous system in human-centered or social contexts. I am also fortunately supported by the [NSF GRFP](https://www.nsfgrfp.org/).  
 
-During my undergrad, I was very fortunate to work with [Dr. C&eacute;sar A. Uribe](https://cauribe.rice.edu/), [Dr. Lydia Beaudrot](https://lydiabeaudrot.weebly.com/), [Dr. Esteban G. Tabak](https://cims.nyu.edu/~tabak/), and [Dr. Alison Gopnik](http://www.gopniklab.berkeley.edu/alison). 
+During my undergrad at Rice University, I was very fortunate to work with [Dr. C&eacute;sar A. Uribe](https://cauribe.rice.edu/) and [Dr. Lydia Beaudrot](https://lydiabeaudrot.weebly.com/). I was also fortunate to spend my summers with [Dr. Esteban G. Tabak](https://cims.nyu.edu/~tabak/), [Dr. Alison Gopnik](http://www.gopniklab.berkeley.edu/alison), and [Dr. Jagan Sastry](https://www.mdanderson.org/research/departments-labs-institutes/labs/sastry-laboratory.html) under the [AM-SURE](https://math.nyu.edu/dynamic/research/pages/research-and-training-group-mathematical-modeling-and-simulation/research/undergraduate-research/#AM-SURE-2023), [BAIR REU](https://bair.berkeley.edu/reu.html), and [CPRIT-CURE](https://www.mdanderson.org/education-training/research-training/early-career-pathway-programs/summer-research-programs/programs/cprit-cure.html) programs respectively. 
 
 
 <div class="warning" style='padding:0.1em'>
