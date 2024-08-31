@@ -17,7 +17,7 @@ social: true  # includes social icons at the bottom of the page
 
 Welcome! I am a first-year PhD student at the MIT [Institute of Data, Systems, and Society](https://idss.mit.edu/), working with [Dr. Ali Jadbabaie](https://jadbabaie.mit.edu/). My research interest lie broadly in theory of machine learning in service of promoting safe, reliant autonomous system in human-centered or social contexts. I am also fortunately supported by the [NSF GRFP](https://www.nsfgrfp.org/).  
 
-Previously, I primary worked on optimal transport (OT), a mathematical discipline for aligning and metricizing probability distributions. Through defining node distributions over networks, I applied OT methods to analyzing trophic networks with [Dr. C&eacute;sar A. Uribe](https://cauribe.rice.edu/) and [Dr. Lydia Beaudrot](https://lydiabeaudrot.weebly.com/) at Rice University. I also explored OT methods for factor discovery and ML fairness, advised by [Dr. Esteban G. Tabak](https://cims.nyu.edu/~tabak/) and [Andrew Lipnick](https://www.linkedin.com/in/andrew-lipnick-b85393104/) at NYU Courant. Even earlier, I worked on contrasting reinforcement learning and human goal-seeking with [Dr. Alison Gopnik](http://www.gopniklab.berkeley.edu/alison) and [Eunice Yiu](https://ey242.github.io/about.html) at Berkeley AI Research. 
+Previously, I primary worked on optimal transport (OT), a mathematical discipline for aligning and metricizing probability distributions. Through defining node distributions over networks, I applied OT methods to analyzing trophic networks with [Dr. C&eacute;sar A. Uribe](https://cauribe.rice.edu/) and [Dr. Lydia Beaudrot](https://lydiabeaudrot.weebly.com/) at Rice University. I also explored OT methods for factor discovery and ML fairness, advised by [Dr. Esteban G. Tabak](https://cims.nyu.edu/~tabak/) at NYU Courant. Even earlier, I worked on contrasting reinforcement learning and human goal-seeking with [Dr. Alison Gopnik](http://www.gopniklab.berkeley.edu/alison) at Berkeley AI Research. 
 
 
 <div class="warning" style='padding:0.1em'>
@@ -34,7 +34,7 @@ Please do not hesitate to reach out if you want to talk about getting involved i
 
 **Acknowledgements:** I am a lousy web developer and an even worse photographer. I owe much gratitude to [Shreyas](https://shreyasminocha.me/) for helping me out with random kinks on this website. A big shoutout to my future comedy partner, [Siba](https://sibasmarak.github.io/), for this sharp photo from the Eiffel tower! Lastly, check out [al-folio](https://github.com/alshedivat/al-folio) for the stylish website template. 
 
-Last updated Jun 25th, 2024.
+Last updated Aug 31st, 2024.
 
 
 ---
