@@ -15,7 +15,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Welcome! I am a first-year PhD student at the MIT [Institute of Data, Systems, and Society](https://idss.mit.edu/), working with [Dr. Ali Jadbabaie](https://jadbabaie.mit.edu/). My research interest lie broadly in machine learning theory and safety within social and human-centered contexts. I am also fortunately supported by the [NSF GRFP](https://www.nsfgrfp.org/).  
+Welcome! I am a first-year PhD student at the MIT [Institute of Data, Systems, and Society (IDSS)](https://idss.mit.edu/), working with [Dr. Ali Jadbabaie](https://jadbabaie.mit.edu/). My research interest lie broadly in machine learning theory and safety within social and human-centered contexts. I am fortunately supported by the [NSF GRFP](https://www.nsfgrfp.org/) and affiliated with the [Laboratory for Information and Decision Systems (LIDS)](https://lids.mit.edu/). 
 
 Previously, I primary worked on optimal transport (OT), a mathematical discipline for aligning and metricizing probability distributions. By defining node distributions over networks, I applied OT methods to analyzing trophic networks with [Dr. C&eacute;sar A. Uribe](https://cauribe.rice.edu/) and [Dr. Lydia Beaudrot](https://lydiabeaudrot.weebly.com/) at Rice University. I also explored OT methods for factor discovery and ML fairness, advised by [Dr. Esteban G. Tabak](https://cims.nyu.edu/~tabak/) at NYU Courant. Even earlier, I worked on contrasting reinforcement learning and human goal-seeking with [Dr. Alison Gopnik](http://www.gopniklab.berkeley.edu/alison) at Berkeley AI Research. 
 
