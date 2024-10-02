@@ -48,31 +48,7 @@ The first feature I worked on was **Ride Creation**, as part of Rice App's [Open
     Navigate from the landing page to the search page... oops! No ride has been made! Let us make one.
 </div>
 
-The idea here is pretty simple, the two core features are ride search and ride creation. In particular, ride creation functionality encompassed building the interface (form) for user to input their credentials, saving that information, and sending a GraphQL query to mutate our MongoDB database where the ride informations are collectively stored. 
-
-The following remain one of my proudest code snippets at the time: 
-
-{% raw %}
-```javascript
-    const addRide = (ride) => {
-        createRide({
-            variables: ride
-        })
-        .then((obj) => {
-            addToast("Congratulations! Your ride has been successfully created.", 
-                    { appearance: 'success'});
-            const rideID = obj.data.rideCreateOne.record._id;
-             window.open('/ridesummary/' + rideID, '_self');
-        })
-        .catch((error) => {
-            addToast("Sorry, an error occurred processing your new ride. Please try again later.", 
-                    { appearance: 'error' });
-        });
-    }
-```
-{% endraw %}
-
-For context, check out the [source code](https://github.com/rice-apps/Carpool-V3/tree/master/client/src/Pages/CreateRide). Inspired heavily by the react-task-tracker [tutorial](https://www.youtube.com/watch?v=w7ejDZ8SWv8) hehe. 
+The idea here is pretty simple, the two core features are ride search and ride creation. In particular, ride creation functionality encompassed building the interface (form) for user to input their credentials, saving that information, and sending a GraphQL query to mutate our MongoDB database where the ride informations are collectively stored. For implementation details, check out the [source code](https://github.com/rice-apps/Carpool-V3/tree/master/client/src/Pages/CreateRide). Inspired heavily by the react-task-tracker [tutorial](https://www.youtube.com/watch?v=w7ejDZ8SWv8) hehe. 
 
 The second feature that I have worked on was **User Onboarding**. We wanted to restrict assess to the site to Rice students and also be able to store new user information for future rides. The workflow basically consisted of: 
 

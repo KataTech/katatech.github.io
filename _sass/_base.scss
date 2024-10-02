@@ -6,12 +6,22 @@
 
 p, h1, h2, h3, h4, h5, h6, em, div, li, span, strong {
   color: var(--global-text-color);
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Atkinson Hyperlegible', 'Ubuntu', sans-serif;
 }
 
-p, li {
-  font-size: 0.95rem; 
+/* Custom styling for Atkinson Hyperlegible font. */
+em, i {
+  font-style: italic;
+  font-weight: 400; // Ensure regular italic font is applied
 }
+strong, b {
+  font-weight: 700; // Ensure bold font is applied
+}
+strong em, strong i, b em, b i, em strong, em b, i strong, i b {
+  font-style: italic;
+  font-weight: 700; // Ensure bold-italic font is applied
+}
+
 
 hr {
   border-top: 1px solid var(--global-divider-color);
@@ -27,7 +37,8 @@ table {
 }
 
 a, table.table a {
-  color: var(--global-theme-color);
+  text-decoration: underline;
+  color: var(--global-text-color);
   &:hover {
     color: var(--global-theme-color);
     text-decoration: underline;
@@ -43,10 +54,13 @@ figure, img {
 
 blockquote {
   background: var(--global-bg-color);
-  border-left: 2px solid var(--global-theme-color);
-  margin: 1.5em 10px;
-  padding: 0.5em 10px;
-  font-size: 1.2rem;
+  border-left: 5px solid var(--global-theme-color);
+  margin: 1.0em 5px;
+  padding: 0.5em 5px; 
+  font-size: 1rem;
+}
+blockquote p {
+  margin-bottom: 0; /* This removes the margin at the bottom of paragraphs inside blockquote */
 }
 
 // Math
@@ -169,6 +183,7 @@ blockquote {
 }
 .navbar.navbar-light {
   a {
+    text-decoration: none;
     &:hover {
       text-decoration: none;
     }

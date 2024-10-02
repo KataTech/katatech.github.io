@@ -2,21 +2,27 @@
 layout: page
 title: research
 permalink: /research/
-description: an overview of current and past research projects
+description: an overview of past research projects
 nav: true
 nav_order: 3
 horizontal: false
 ---
 
+**For publication list, please refer to my [Google Scholar](https://scholar.google.com/citations?user=fqzc5pEAAAAJ&hl=en).**
+
+<br/>
+
 #### **MIT** 
 
 *Coming soon!*
+
+<hr/>
 
 #### **Rice University**
 
 Advised by [Dr. C&eacute;sar A. Uribe](https://cauribe.rice.edu/) and [Dr. Lydia Beaudrot](https://lydiabeaudrot.weebly.com/).
 
-**TL;DR:** A systemic understanding of predator-prey relationships is central to maintaining biodiversity and the well-being of an ecosystem. As anthropogenic disturbance continues to rise in Sub-Saharan Africa, we are in need of a principled approach to study and anticipate changes among its food web networks as a result of human interference. We leverage optimal transport as the backbone of our newly proposed geometric data analysis toolkit over food web networks. Check out our preliminary results below!
+**TL;DR:** Food webs are models for species interaction, which capture significant information about an ecosystem. A formal notion of distance between food webs can then enable scaled predictions of ecological disturbances. We formalize distances between food webs using tools from Optimal Transport. In particular, we (1) show that Gromov-Wasserstein distance metricizes food webs based on shared species functional roles and (2) developed a novel graph regression model (i.e. Euclidean inputs and Graph outputs) using the Bures-Wasserstein distance. 
 
 [1] Zalles, A., **Hung, K.**, et al. (2024). [An Optimal Transport Approach for Network Regression](https://arxiv.org/abs/2406.12204). IEEE CCTA 2024. 
 
@@ -37,7 +43,7 @@ Advised by [Dr. C&eacute;sar A. Uribe](https://cauribe.rice.edu/) and [Dr. Lydia
 #### **New York University**
 Advised by [Dr. Esteban G. Tabak](https://cims.nyu.edu/~tabak/). Supported by the [AM-SURE](https://math.nyu.edu/dynamic/research/pages/research-and-training-group-mathematical-modeling-and-simulation/activities/amsure/) program, funded by NSF.
 
-**TL;DR:** Often times, your data is affected by variables that should be excluded from your analysis (for ex. batch effect and protected attributes such as race, gender, socioeconomic class). We developed a theoretical framework for reducing the unwanted variability in our data distribution via optimal transport. Look out for our future works to extend this method for personalization, latent factor discovery, and semi-supervised variability reduction! 
+**TL;DR:** Often times, your data is affected by variables that should be excluded from your analysis (for ex. batch effect and protected attributes such as race, gender, socioeconomic class). We developed a theoretical framework for reducing the unwanted variability in our data distribution via optimal transport. Future extensions include personalization, latent factor discovery, and semi-supervised variability reduction! 
 
 <div class="row mt-2" style="height: 35rem;">
     <div class="col-sm-6 mt-3 mt-md-0">
@@ -82,18 +88,5 @@ Advised by [Dr. Alison Gopnik](http://www.gopniklab.berkeley.edu/alison) and [Eu
                 View Slides (PDF)
             </a>
         </p>
-    </div>
-</div>
-
-<hr/>
-
-#### **MD Anderson Cancer Center**
-
-Advised by [Dr. Jagan Sastry](https://faculty.mdanderson.org/profiles/jagannadha_sastry.html) and [Dr. Venkatesh Hegde](https://www.researchgate.net/profile/Venkatesh-Hegde). Supported by the [CPRIT CURE](https://www.mdanderson.org/education-training/degrees-programs/summer-research-programs/cprit-cure.html) program. 
-
-**TL;DR:** HPV+ oropharyngeal cancer is rising in prevalence within the U.S. accounting for over 70% of all oropharyngeal cancers. Our group developed an anti-PD1 immunotherapy therapeudic procedure, but we observed that the treatment efficacy differed wildly between tumor implants in the neck v.s. the tongue. My work centered around identifying the differentially expressed genes across these two experiments using RNA-Sequencing Analysis, and eventually constructing a set of hypothesis on the activation/deactivation of biological pathways based on the set of differentially expressed genes. 
-<div class="row justify-content-center">
-    <div class="col-sm-6">
-        {% include figure.html path="assets/img/research/cprit-cure.png" title="CPRIT CURE" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
