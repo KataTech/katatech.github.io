@@ -21,8 +21,6 @@ Previously, I completed my B.A. in Computer Science at Rice University. There, I
 
 Outside of research, I practice Taekwondo, hike, read, and cook! 
 
-**Disclaimer:** Without advanced notice, any research ideas shared with me may be shared with my advisor Ali.
-
 
 <div class="warning" style='padding:0.1em'>
 <span>
