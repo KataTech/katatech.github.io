@@ -15,7 +15,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am a first-year PhD student in the [MIT Institute of Data, Systems, and Society (IDSS)](https://idss.mit.edu/), advised by [Dr. Ali Jadbabaie](https://jadbabaie.mit.edu/). My research interest lie broadly in machine learning theory and safety for social systems. I am generously supported by the NSF GRFP, and an affiliate of [LIDS](https://lids.mit.edu/). 
+I am a first-year PhD student in the [MIT Institute of Data, Systems, and Society (IDSS)](https://idss.mit.edu/). My research interest lie broadly in machine learning theory and safety for social systems. I am generously supported by the NSF GRFP, and an affiliate of [LIDS](https://lids.mit.edu/). 
 
 Previously, I completed my B.A. in Computer Science at Rice University. There, I worked with [Dr. C&eacute;sar Uribe](https://cauribe.rice.edu/) and [Dr. Lydia Beaudrot](https://lydiabeaudrot.weebly.com/) on optimal transport-based graph learning for ecology. I was also hosted by [Dr. Esteban Tabak](https://cims.nyu.edu/~tabak/) at NYU Courant and [Dr. Alison Gopnik](https://www.gopniklab.berkeley.edu/) at Berkeley AI Research during my summers.
 
