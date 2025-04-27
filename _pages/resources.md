@@ -7,8 +7,17 @@ nav: true
 nav_order: 5
 horizontal: false
 ---
+**General research tips and blogs.** 
+* [Andrej Karpathy](https://karpathy.ai/)'s blog, especially his [survival guide to a PhD](https://karpathy.github.io/2016/09/07/phd/). 
+* Richard Hamming's talk on [You and Your Research](https://www.inf.ed.ac.uk/teaching/courses/inf1/fp/lectures/hamming.pdf). [Video](https://www.youtube.com/watch?v=a1zDuOPkMSw&ab_channel=securitylectures).
+* [Lessons learned from 1K rejected research papers](https://www.cs.cmu.edu/~christos/MetaPaper/faloutsos_MetaPaper_1KR.pdf) by Christos Faloutsos. 
+* On writing good research code: [Harvard](https://docs.google.com/document/d/1uvAbEhbgS_M-uDMTzmOWRlYxqCkogKRXdbKYYT98ooc/edit#heading=h.fmfv56no579j), [reddit](https://www.reddit.com/r/MachineLearning/comments/g133a3/r_what_is_your_ml_research_workflow/), and [industry research](https://www.moderndescartes.com/essays/research_code/) perspectives. 
+* Use [screens](https://linuxize.com/post/how-to-use-linux-screen/) to detach from your lab's cloud computing cluster overnight. Oh, and use [Termius](https://termius.com/) to make remote development and data sharing smoothly. Free with [Github Student Developer Pack](https://education.github.com/pack)! 
+* A nice [guide](https://www.alexpghayes.com/post/2023-12-20_getting-statistics-help/) by Alex Hayes on important questions to address *prior to data-driven collaborations*, both for the statistician and domain expert seeking assistance. 
+* For applied statistics insights, check out [Ben Recht](https://www.argmin.net/) and [Andrew Gelman](https://statmodeling.stat.columbia.edu/)'s blogs. 
+* My two favorite bloggers are [Matt Might](https://matt.might.net/) and [Andrej Karpathy](https://karpathy.ai/). I also regularly refer to the [Kernel Magazine](https://www.kernelmag.io/) for diversified perspectives on how tech impacts our society and proposals to leverage technology for a better future. When it comes to digesting AI news, I personally find [Import AI](https://jack-clark.net/) and [Interconnects](https://www.interconnects.ai/) helpful. 
 
-**Early researchers!!!**
+**Early researchers and grad school applicants!!!**
 
 Check out my blog post for [getting involved with ML at Rice](../blog/2023/ml-at-rice/). You should also be aware of
 * [REU](https://www.nsf.gov/crssprgm/reu/) programs, which are funded summer research program for U.S. students. Many target those with little prior experience and from underrepresented backgrounds. 
@@ -19,18 +28,7 @@ Check out my blog post for [getting involved with ML at Rice](../blog/2023/ml-at
 * [Questions](https://blog.ml.cmu.edu/2020/03/02/questions-to-ask-a-prospective-ph-d-advisor-on-visit-day-with-thorough-and-forthright-explanations/) to ask prospective research advisors. 
 * The widely shared Github [repository](https://github.com/shaily99/advice#examples) for Ph.D. + grad school advice.
 * For my fellow warriors out there: [How to Prep for Grad School if You're Poor](https://docs.google.com/document/d/1WfoMVkEbsn03Xz0Q2_YQPlWy2YrS0m4R2vK2nsekvcQ/edit). 
-* Supporting a fellow Rice Owl: I find [Lucy Lai](https://lucylai.com/blog/gradapps)'s advice to PhD application genuine, helpful, and well-aligned to my personal opinions on a successful PhD application. It is a fine balance between overly general (e.g. those talking about PhD as a whole) and specific (e.g. ML PhD guides telling you publish or perish).
-
-
-**General research tips.** 
-* [Andrej Karpathy](https://karpathy.ai/)'s blog, especially his [survival guide to a PhD](https://karpathy.github.io/2016/09/07/phd/). 
-* Richard Hamming's talk on [You and Your Research](https://www.inf.ed.ac.uk/teaching/courses/inf1/fp/lectures/hamming.pdf). [Video](https://www.youtube.com/watch?v=a1zDuOPkMSw&ab_channel=securitylectures).
-* [Lessons learned from 1K rejected research papers](https://www.cs.cmu.edu/~christos/MetaPaper/faloutsos_MetaPaper_1KR.pdf) by Christos Faloutsos. 
-* On writing good research code: [Harvard](https://docs.google.com/document/d/1uvAbEhbgS_M-uDMTzmOWRlYxqCkogKRXdbKYYT98ooc/edit#heading=h.fmfv56no579j), [reddit](https://www.reddit.com/r/MachineLearning/comments/g133a3/r_what_is_your_ml_research_workflow/), and [industry research](https://www.moderndescartes.com/essays/research_code/) perspectives. 
-* Use [screens](https://linuxize.com/post/how-to-use-linux-screen/) to detach from your lab's cloud computing cluster overnight. Oh, and use [Termius](https://termius.com/) to make remote development and data sharing smoothly. Free with [Github Student Developer Pack](https://education.github.com/pack)! 
-* A nice [guide](https://www.alexpghayes.com/post/2023-12-20_getting-statistics-help/) by Alex Hayes on important questions to address *prior to data-driven collaborations*, both for the statistician and domain expert seeking assistance. 
-* To stay up to date on stats and its interface with real world, I regularly check out [Ben Recht](https://www.argmin.net/) and [Andrew Gelman](https://statmodeling.stat.columbia.edu/)'s blogs. 
-* My two favorite bloggers are [Matt Might](https://matt.might.net/) and [Andrej Karpathy](https://karpathy.ai/). I also regularly refer to the [Kernel Magazine](https://www.kernelmag.io/) for diversified perspectives on how tech impacts our society and proposals to leverage technology for a better future. When it comes to digesting AI news, I personally find [Import AI](https://jack-clark.net/) and [Interconnects](https://www.interconnects.ai/) helpful. 
+* Supporting a fellow Rice Owl: I find [Lucy Lai](https://lucylai.com/blog/gradapps)'s advice to PhD application genuine, helpful, and well-aligned to my personal opinions on a successful PhD application. 
 
 **More related to my area of research...** 
 * A [primer on optimal transport](https://vimeo.com/248504509) by Marco Cuturi and Justin Solomon. 
