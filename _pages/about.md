@@ -15,7 +15,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am a first-year PhD student at the [MIT Institute of Data, Systems, and Society (IDSS)](https://idss.mit.edu/), advised by [Prof. Munther Dahleh](https://idss.mit.edu/staff/munther-dahleh/). My research interest lie broadly in theory and methods to promote safe integration of statistical learning and decision systems for society. I am supported by the [NSF GRFP](https://nsfgrfp.org/), and an affiliate of [LIDS](https://lids.mit.edu/). 
+I am a first-year PhD student at the [MIT Institute of Data, Systems, and Society (IDSS)](https://idss.mit.edu/), advised by [Prof. Munther Dahleh](https://idss.mit.edu/staff/munther-dahleh/). My research interests lie broadly at the intersection of statistics, computer science, and economics. I am supported by the [NSF GRFP](https://nsfgrfp.org/), and an affiliate of [LIDS](https://lids.mit.edu/). 
+
+Currently, I think a lot about guardrails and regulation of machine learning systems through the lens of economics.
 
 Previously, I completed my B.A. in Computer Science at Rice University. As an undergrad, I worked on machine learning, optimal transport, and behavioral modeling. In particular, I worked with [Dr. C&eacute;sar Uribe](https://cauribe.rice.edu/) and [Dr. Lydia Beaudrot](https://lydiabeaudrot.weebly.com/) on optimal transport methods for ecological modeling in Sub-Saharan Africa. I was also hosted by [Dr. Esteban Tabak](https://cims.nyu.edu/~tabak/) at NYU Courant and [Dr. Alison Gopnik](https://www.gopniklab.berkeley.edu/) at Berkeley AI Research.
 
