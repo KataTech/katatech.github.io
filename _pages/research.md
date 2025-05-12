@@ -20,6 +20,10 @@ For publication list, please refer to my [Google Scholar](https://scholar.google
 
 I am excited about abstration and theory motivated by these important problems, with the hope of generating insights that help us better understand the benefits and harms of using data-driven decision systems (or "AI"). If these questions peak your interests too, please feel free to reach [me](mailto:kaimhung@mit.edu). 
 
+My own PhD program, [Social & Engineering Systems](https://idss.mit.edu/academics/ses/), is also a new one. It aims to advocate for a transdiciplinary approach in addressing challenges of making data-driven decisions that are deeply entangled with human and institutional behaviors. The origin of the program and its core philosophy can be found by in this new [book](https://www.cambridge.org/us/universitypress/subjects/computer-science/knowledge-management-databases-and-data-mining/data-systems-and-society-harnessing-ai-societal-good?format=PB) by my advisor, Munther Dahleh. 
+
+{% include figure.html path="assets/img/munzer-book-dss.jpg" class="img-fluid rounded z-depth-1" %}
+
 <hr/>
 
 #### **Rice University**

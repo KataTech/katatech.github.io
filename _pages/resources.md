@@ -19,7 +19,10 @@ horizontal: false
 
 **Early researchers and grad school applicants!!!**
 
-Check out my blog post for [getting involved with ML at Rice](../blog/2023/ml-at-rice/). You should also be aware of
+Check out my blog post for [getting involved with ML at Rice](../blog/2023/ml-at-rice/) and this [video series](https://www.youtube.com/@FAILSharing) on failures experienced by leading scholars, which deeply inspired me. 
+
+
+You should also be aware of
 * [REU](https://www.nsf.gov/crssprgm/reu/) programs, which are funded summer research program for U.S. students. Many target those with little prior experience and from underrepresented backgrounds. 
 * [Barry Goldwater Scholarship](https://goldwaterscholarship.gov/) for sophomore, juniors. Schools usually pre-select candidates. 
 * [Cornell, Maryland, and Max Planck Pre-Doctoral Summer School](https://cmmrs.mpi-sws.org/) for those debating to pursue CS research. You get a fun, fully-funded trip to Europe as well! 
