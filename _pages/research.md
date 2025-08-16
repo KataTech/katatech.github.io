@@ -32,13 +32,13 @@ Advised by [Dr. C&eacute;sar A. Uribe](https://cauribe.rice.edu/) and [Dr. Lydia
 
 **TL;DR:** Food webs are models for species interaction, which capture significant information about an ecosystem. A formal notion of distance between food webs can then enable scaled predictions of ecological disturbances. We formalize distances between food webs using tools from Optimal Transport. In particular, we (1) show that Gromov-Wasserstein distance metricizes food webs based on shared species functional roles and (2) developed a novel graph regression model (i.e. Euclidean inputs and Graph outputs) using the Bures-Wasserstein distance. 
 
-[1] **Hung, K.M.**, Beaudrot, L., et al. [Quantifying functionally equivalent species and ecological network dissimilarity with optimal transport distances](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210x.70130). Methods in Ecology and Evolution.
+[1] **Hung, K.M.**, Beaudrot, L., et al (2025). [Quantifying functionally equivalent species and ecological network dissimilarity with optimal transport distances](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210x.70130). Methods in Ecology and Evolution.
 
-[2] Zalles, A., **Hung, K.M.**, et al. [An Optimal Transport Approach for Network Regression](https://arxiv.org/abs/2406.12204). IEEE CCTA 2024. 
+[2] Zalles, A., **Hung, K.M.**, et al (2024). [An Optimal Transport Approach for Network Regression](https://arxiv.org/abs/2406.12204). IEEE Conference on Control Technology and Applications.  
 
-[3] **Hung, K.M.**, Zalles, A., et al. [Towards Ecological Network Analysis with Gromov-Wasserstein Distances](https://www.climatechange.ai/papers/iclr2024/6). ICLR 2024 Workshop on Tackling Climate Change with Machine Learning.
+[3] **Hung, K.M.**, Zalles, A., et al (2024). [Towards Ecological Network Analysis with Gromov-Wasserstein Distances](https://www.climatechange.ai/papers/iclr2024/6). ICLR Workshop on Tackling Climate Change with Machine Learning.
 
-[4] Zalles, A., **Hung, K.M.**, et al. [Network Regression with Wasserstein Distances](/assets/papers/zalles2023_network_regression.pdf). NeurIPS 2023 Workshop on Optimal Transport and Machine Learning.
+[4] Zalles, A., **Hung, K.M.**, et al (2023). [Network Regression with Wasserstein Distances](/assets/papers/zalles2023_network_regression.pdf). NeurIPS Workshop on Optimal Transport and Machine Learning.
 
 <div class="row mt-2">
     <div class="col-sm-6 mt-3 mt-md-0">
