@@ -32,7 +32,7 @@ Advised by [Dr. C&eacute;sar A. Uribe](https://cauribe.rice.edu/) and [Dr. Lydia
 
 **TL;DR:** Food webs are models for species interaction, which capture significant information about an ecosystem. A formal notion of distance between food webs can then enable scaled predictions of ecological disturbances. We formalize distances between food webs using tools from Optimal Transport. In particular, we (1) show that Gromov-Wasserstein distance metricizes food webs based on shared species functional roles and (2) developed a novel graph regression model (i.e. Euclidean inputs and Graph outputs) using the Bures-Wasserstein distance. 
 
-[1] Finneran, A., Uribe, C.A., **Hung, K.M.**, et al (2026). Food web similarity increases with productivity similarity at a continental scale. Ecology Letters. 
+[1] Finneran, A., Uribe, C.A., **Hung, K.M.**, et al (2026). [Food web similarity increases with productivity similarity at a continental scale](https://onlinelibrary.wiley.com/doi/full/10.1111/ele.70368). Ecology Letters. 
 
 [2] **Hung, K.M.**, Beaudrot, L., et al (2025). [Quantifying functionally equivalent species and ecological network dissimilarity with optimal transport distances](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210x.70130). Methods in Ecology and Evolution.
 
