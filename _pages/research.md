@@ -13,16 +13,13 @@ For publication list, please refer to my [Google Scholar](https://scholar.google
 
 #### **MIT** 
 
-*Still in the problem formulation and exploration phase.. but some questions of interest include:*
+*Preprints coming soon.*
+
 * **Feedback and Performativity of Data-Driven Decisions.** Modern machine learning deployments carry feedback structure. In particular, their predictions or generations can affect the very relations they seek to model. In statistical terms, we need to better understand learning over non-IID settings. Some key interests of mine focus on specific *structure* of said non-IID data motivated by real-world social and strategic interactions. For more, see this [survey](https://arxiv.org/abs/2310.16608). 
 * **Antitrust & Safety.** How can we provide tools and insights for regulators to combat harmful deployment of data-driven algorithms? What type of "sensors" are useful indications of failures? What failure modes should we be concerned about? And what evidence of misuse is legally useful? 
 * **Collective Decision-Making with Heterogeneity.** How can decision-making systems cater to diverse objectives and preferences? Can we identify and estimate mixtures of rational preferences from observational data? How should decisions be made amidst diverse preferences? 
 
 I am excited about abstration and theory motivated by these important problems, with the hope of generating insights that help us better understand the benefits and harms of using data-driven decision systems (or "AI"). If these questions peak your interests too, please feel free to reach [me](mailto:kaimhung@mit.edu). 
-
-My own PhD program, [Social & Engineering Systems](https://idss.mit.edu/academics/ses/), is also a new one. It aims to advocate for a transdiciplinary approach in addressing challenges of making data-driven decisions that are deeply entangled with human and institutional behaviors. The origin of the program and its core philosophy can be found by in this new [book](https://www.cambridge.org/us/universitypress/subjects/computer-science/knowledge-management-databases-and-data-mining/data-systems-and-society-harnessing-ai-societal-good?format=PB) by my advisor, Munther Dahleh. 
-
-{% include figure.html path="assets/img/munzer-book-dss.jpg" class="img-fluid rounded z-depth-1" %}
 
 <hr/>
 
