@@ -39,7 +39,7 @@ I am a FLI and immigrant student myself. Please do not hesitate to reach out if 
 
 **Acknowledgements:** I am a lousy web developer and an even worse photographer. I owe much gratitude to [Shreyas Minocha](https://shreyasminocha.me/) for helping me out with random kinks on this website. Shoutout to [Siba Panigrahi](https://sibasmarak.github.io/) for my sharp photo from the Eiffel tower! Much of the site aesthetics are inspired by [Alex Hayes](https://www.alexpghayes.com/) and [al-folio](https://github.com/alshedivat/al-folio). 
 
-Last updated: May 2026.
+Last updated: Oct 2026.
 
 
 ---
