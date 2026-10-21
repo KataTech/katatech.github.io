@@ -13,6 +13,7 @@ horizontal: false
 * Richard Hamming's talk on [You and Your Research](https://www.inf.ed.ac.uk/teaching/courses/inf1/fp/lectures/hamming.pdf). [Video](https://www.youtube.com/watch?v=a1zDuOPkMSw&ab_channel=securitylectures).
 * On writing good research code: [Harvard](https://docs.google.com/document/d/1uvAbEhbgS_M-uDMTzmOWRlYxqCkogKRXdbKYYT98ooc/edit#heading=h.fmfv56no579j), [reddit](https://www.reddit.com/r/MachineLearning/comments/g133a3/r_what_is_your_ml_research_workflow/), and [industry research](https://www.moderndescartes.com/essays/research_code/) perspectives. 
 * Use [screens](https://linuxize.com/post/how-to-use-linux-screen/) to detach from your lab's cloud computing cluster overnight. Oh, and use [Termius](https://termius.com/) to make remote development and data sharing smoothly. Free with [Github Student Developer Pack](https://education.github.com/pack)!
+* I recently shifted from Jupyter Notebooks to [marimo](https://marimo.io/blog/introducing-marimo). 
 
 **Early researchers and grad school applicants!!!**
 
