@@ -15,7 +15,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am a PhD student at the [MIT Institute of Data, Systems, and Society (IDSS)](https://idss.mit.edu/), advised by [Prof. Munther Dahleh](https://idss.mit.edu/staff/munther-dahleh/). I also work closely with [Prof. Bailey Flanigan](https://sites.google.com/mit.edu/bailey-flanigan/home). My research interests lie at the intersection of statistics, computer science, and economics. I am supported by the [NSF GRFP](https://nsfgrfp.org/), and an affiliate of [LIDS](https://lids.mit.edu/). 
+I am a PhD student at the [MIT Institute for Data, Systems, and Society (IDSS)](https://idss.mit.edu/), advised by [Prof. Munther Dahleh](https://idss.mit.edu/staff/munther-dahleh/). I also work closely with [Prof. Bailey Flanigan](https://sites.google.com/mit.edu/bailey-flanigan/home). My research interests lie at the intersection of statistics, computer science, and economics. I am supported by the [NSF GRFP](https://nsfgrfp.org/), and an affiliate of [LIDS](https://lids.mit.edu/). 
 
 Currently, I think a lot about guardrails of machine learning systems. In particular, I study how they shape the information environment for civic engagement, e.g. recommender systems on social media and decision assistants in deliberations. 
 
