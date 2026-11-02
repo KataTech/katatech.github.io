@@ -11,9 +11,11 @@ horizontal: false
 * Andrej Karpathy's [survival guide to a PhD](https://karpathy.github.io/2016/09/07/phd/). 
 * Larry Guth's [What math means to me](https://arxiv.org/abs/2609.32028). 
 * Richard Hamming's talk on [You and Your Research](https://www.inf.ed.ac.uk/teaching/courses/inf1/fp/lectures/hamming.pdf). [Video](https://www.youtube.com/watch?v=a1zDuOPkMSw&ab_channel=securitylectures).
-* On writing good research code: [Harvard](https://docs.google.com/document/d/1uvAbEhbgS_M-uDMTzmOWRlYxqCkogKRXdbKYYT98ooc/edit#heading=h.fmfv56no579j), [reddit](https://www.reddit.com/r/MachineLearning/comments/g133a3/r_what_is_your_ml_research_workflow/), and [industry research](https://www.moderndescartes.com/essays/research_code/) perspectives. 
-* Use [screens](https://linuxize.com/post/how-to-use-linux-screen/) to detach from your lab's cloud computing cluster overnight. Oh, and use [Termius](https://termius.com/) to make remote development and data sharing smoothly. Free with [Github Student Developer Pack](https://education.github.com/pack)!
-* I recently shifted from Jupyter Notebooks to [marimo](https://marimo.io/blog/introducing-marimo). 
+* I endorse a number of practices and tools from my own compute set up: 
+    * Alex Hayes' concrete [suggestions](https://www.alexpghayes.com/post/what-i-want-from-academic-code/) on academic code as a medium of precise communication. 
+    * Use [screens](https://linuxize.com/post/how-to-use-linux-screen/) to detach from your lab's cloud computing cluster overnight. Oh, and use [Termius](https://termius.com/) to make remote development and data sharing smoothly. Free with [Github Student Developer Pack](https://education.github.com/pack)!
+    * Shift from Jupyter Notebooks to [marimo](https://marimo.io/blog/introducing-marimo)! 
+* Alternative research code perspectives: [Harvard](https://docs.google.com/document/d/1uvAbEhbgS_M-uDMTzmOWRlYxqCkogKRXdbKYYT98ooc/edit#heading=h.fmfv56no579j), [reddit](https://www.reddit.com/r/MachineLearning/comments/g133a3/r_what_is_your_ml_research_workflow/), and [industry research](https://www.moderndescartes.com/essays/research_code/). 
 
 **Early researchers and grad school applicants!!!**
 
